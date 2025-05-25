@@ -1,5 +1,5 @@
 
-#debian base
+#debianbase
 apt install dialog
 
 #redhat
